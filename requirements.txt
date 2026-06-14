@@ -1,0 +1,11 @@
+langchain
+langchain-core
+langchain-community
+langgraph
+langchain-ollama
+langsmith
+langchainhub
+tavily-python
+python-dotenv
+certifi
+streamlit
